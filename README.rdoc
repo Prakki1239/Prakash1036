@@ -1,0 +1,50 @@
+I have taken your assignment into very  responsible. , as per my knowledge  When i look up your problem description .
+
+I have decided to use python programming language because it is very powerful scripting language but a bit complex code.
+
+I have taken a URL is "https://github.com/Shippable/support/issues?q=is%3Aopen+is%3Aissue"., an I start working with that URL
+ 
+here, I should show the output into integers ..i have to print the number of issues are opened and number of issues are closed when i access that url.
+ 
+ Additionally i must show the results which you have given like ,how many issues are opened:
+ i) in 24 hours 
+ ii)more than a day and less than 7 days
+ iii)mpre than 7 days
+
+Action Plan:
+ 
+step 1 : First i want to get this url html code to be job done.
+
+step 2 : for getting html code i used a method called requests.get(url)
+
+step 3 : After getting html responses i should parse the values from html content in python language.
+
+step 4 : for parsing techniques i used a method called "BeautifulSoup"
+
+step 5 : After extracting the data from html i got values (open and closed issues)
+
+step 6 : I have stored that values into integer and displayed it into screen
+
+After i got values ,i started writing the code in python to interact with User Interface 
+
+I used Tkinter for interacting with graphical user interface.
+
+Finally i want to display the results in user interface and i did
+
+-------------------------------0000000000000000---------------------------------
+
+Here is the link "https://dashboard.heroku.com/apps/afternoon-brook-8649/activity" deployed the above python code in Heroku succesfully
+
+===================================================
+
+to improve my solution:
+
+I would prefer more time to spend with coding part and deliver you very worthy. I like to work with Heroku compare to Force.com
+
+
+
+
+
+
+
+
